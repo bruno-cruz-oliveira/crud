@@ -35,7 +35,7 @@ Para executar o projeto, navegue até as pastas backend e frontend individualmen
 
 1. Instalar as dependências
 ```
-npm start
+npm i
 ```
 
 2. Inicie o servidor de desenvolvimento:
